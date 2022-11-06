@@ -1,12 +1,5 @@
-## Hi there 👋
+# Проекты выходного дня
 
-<!--
+Все представленное тут, не гарантированно работает/ не имеет какую либо структуру/ не имеет какую либо цель создания. Вы предупрежждены и саме решаете на сколько полезна эта информация.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Everything presented here is not guaranteed to work / does not have any structure / does not have any purpose of creation. You are warned and you decide how useful this information is.
